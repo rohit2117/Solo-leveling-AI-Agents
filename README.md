@@ -35,18 +35,20 @@ cd Solo-leveling-AI-Agents
 ```
 
 2️⃣ Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 3️⃣ Setup environment
 
 Create a .env file in the root directory with your Gemini API key:
 
+```bash
 GOOGLE_API_KEY=your_api_key_here
+```
 
 👉 Get a free Gemini API key here: Google AI Studio.
 
-4️⃣ Run notebooks
 
 Explore the examples for each day. 
 
