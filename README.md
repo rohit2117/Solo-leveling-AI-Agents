@@ -32,6 +32,7 @@ Through this series, we’ll cover:
 ```bash
 git clone https://github.com/rohit2117/Solo-leveling-AI-Agents.git
 cd Solo-leveling-AI-Agents
+```
 
 2️⃣ Install dependencies
 
