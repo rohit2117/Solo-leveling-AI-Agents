@@ -72,7 +72,8 @@ Explore the examples for each day.
 
 🌍 Connect
 
-Follow along the journey on Twitter/X -> @_rohit21
+Follow along the journey on Twitter/X -> 
+https://x.com/_rohit21
 
 Linkedin ->
 https://www.linkedin.com/in/rohit-malekar-898141b1
