@@ -61,7 +61,9 @@ Explore the examples for each day.
 
 ✅ Day 2: Building Your First LangChain Agent
 
-⏳ Day 3: Advanced prompt engineering techniques.
+✅ Day 3: Advanced prompt engineering techniques.
+
+⏳ Day 4: Chains Mastery.
 
 
 👉 Check back daily for updates!
